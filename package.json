@@ -1,0 +1,15 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescript",
+  "main": "app.js",
+  "scripts": {
+    "test": "run-ts",
+    "start": "lite-server"
+  },
+  "author": "skv",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
